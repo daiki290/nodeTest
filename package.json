@@ -1,0 +1,23 @@
+{
+  "name": "nodetest",
+  "version": "1.0.0",
+  "description": "nodeTest",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daiki290/nodeTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daiki290/nodeTest/issues"
+  },
+  "homepage": "https://github.com/daiki290/nodeTest#readme",
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
+}
